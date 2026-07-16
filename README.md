@@ -4,4 +4,4 @@ Senior Full-Stack Engineer in New York City. I work in TypeScript, React, Next.j
 
 On weekends I design, build, and ship my own projects at [WeekendPro](https://weekendpro.io). The latest is [VanishingTiles](https://vanishingtiles.weekendpro.io), a memory game that challenges you to memorize familiar shapes quickly.
 
-Find me at [luisalejo.dev](https://luisalejo.dev) or on [LinkedIn](https://linkedin.com/in/alejo-luis).
+Find me at [LinkedIn](https://linkedin.com/in/alejo-luis).
